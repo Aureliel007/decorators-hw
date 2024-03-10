@@ -1,0 +1,5 @@
+date: 2024-03-10 23:25:25.924630, function: hello_world, arguments: () {}, result: Hello World
+date: 2024-03-10 23:25:25.926630, function: summator, arguments: (2, 2) {}, result: 4
+date: 2024-03-10 23:25:25.928628, function: div, arguments: (6, 2) {}, result: 3.0
+date: 2024-03-10 23:25:25.929628, function: summator, arguments: (4.3,) {'b': 2.2}, result: 6.5
+date: 2024-03-10 23:25:25.931628, function: summator, arguments: () {'a': 0, 'b': 0}, result: 0

@@ -1,0 +1,1 @@
+date: 2024-03-10 23:52:50.597447, function: flat_generator, arguments: ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) {}, result: <generator object flat_generator at 0x0000014FAFA5DB60>
